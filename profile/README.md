@@ -12,7 +12,7 @@ We’re not just about innovation—we're about making a real impact. Whether it
 
 | 🛠️ **Project Name**     | 📜 **Description**                                                                 |
 |--------------------------|----------------------------------------------------------------------------------|
-| 🛞 **Tyrebook**            | A next-gen SaaS platform connecting transporters, tyre dealers & scrap dealers. |
+| 🛞 **Tyrebook**            | A next-gen SaaS platform for transporters, tyre dealers & scrap dealers. |
 | 🔄 **EPRxchange**          | A platform for secure, transparent, and seamless industry exchanges.            |
 | 🚀 **Regrip Admin**         | A powerful admin panel designed to manage all Regrip operations efficiently.    |
 | 📦 **Internal Inventory**   | A dedicated inventory management system with real-time tracking & optimization. |
