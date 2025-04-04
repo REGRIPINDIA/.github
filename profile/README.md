@@ -53,9 +53,9 @@ Check out our [Contribution Guidelines](./CONTRIBUTING.md) to get started!
 ## 📬 **Contact Us**  
 
 Feel free to reach out with ideas, questions, or collaboration opportunities!  
-📧 Email: [support@regrip.org](mailto:tyres@regrip.org)  
+📧 Email: [tyres@regrip.in](mailto:tyres@regrip.in)  
 
-🌐 Visit us at **[Regrip Website](https://wwww.regrip.in/)**  
+🌐 Visit us at **[Regrip Website](https://regrip.in/)**  
 
 ---
 
